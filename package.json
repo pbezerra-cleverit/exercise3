@@ -16,7 +16,7 @@
     "url": "https://github.com/pbezerra-cleverit/exercise3/issues"
   },
   "publishConfig": {
-   "@pbezerra-cleverit:registry": "https://npm.pkg.github.com"
+   "@pbezerra-cleverit/exercise3:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/pbezerra-cleverit/exercise3#readme"
 }
